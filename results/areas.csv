@@ -1,229 +1,166 @@
 AreaID,AnalysisAreaName
-0,_TOD 226
-1,_TOD 227
-2,_TOD 228
-3,_TOD 229
-4,_TOD 230
-5,_TOD 231
-6,_TOD 232
-7,_TOD 233
-8,_TOD 234
-9,_TOD 235
-10,_TOD 236
-11,_TOD 237
-12,_TOD 238
-13,_TOD 239
-14,_TOD 240
-15,_TOD 241
-16,_TOD 242
-17,_TOD 243
-18,_TOD 244
-19,_TOD 245
-20,_TOD 246
-21,_TOD 247
-22,_TOD 248
-23,_TOD 249
-24,_TOD 250
-25,_TOD 251
-26,_TOD 252
-27,_TOD 253
-28,_TOD 254
-29,_TOD 255
-30,_TOD 256
-31,_TOD 257
-32,_TOD 258
-33,_TOD 259
-34,_TOD 260
-35,_TOD 261
-36,_TOD 262
-37,_TOD 263
-38,_TOD 264
-39,_TOD 265
-40,_TOD 266
-41,_TOD 267
-42,_TOD 268
-43,_TOD 269
-44,_TOD 270
-45,_TOD 271
-46,_TOD 272
-47,_TOD 273
-48,_TOD 274
-49,_TOD 275
-50,_TOD 276
-51,_TOD 277
-52,_TOD 278
-53,_TOD 279
-54,_TOD 280
-55,_TOD 281
-56,_TOD 282
-57,_TOD 283
-58,_TOD 284
-59,_TOD 285
-60,_TOD 286
-61,_TOD 287
-62,_TOD 288
-63,_TOD 289
-64,_TOD 290
-65,_TOD 291
-66,_TOD 292
-67,_TOD 293
-68,_TOD 294
-69,_TOD 295
-70,_TOD 296
-71,_TOD 297
-72,_TOD 298
-73,_TOD 299
-74,_TOD 300
-75,_TOD 301
-76,_TOD 302
-77,_TOD 303
-78,_TOD 304
-79,_TOD 305
-80,_TOD 306
-81,_TOD 307
-82,_TOD 308
-83,_TOD 309
-84,_TOD 310
-85,_TOD 311
-86,_TOD 312
-87,_TOD 313
-88,_TOD 314
-89,_TOD 315
-90,_TOD 316
-91,_TOD 317
-92,_TOD 318
-93,_TOD 319
-94,_TOD 320
-95,_TOD 321
-96,_TOD 322
-97,_TOD 323
-98,_TOD 324
-99,_TOD 325
-100,_TOD 326
-101,_TOD 327
-102,_TOD 328
-103,_TOD 329
-104,_TOD 330
-105,_TOD 331
-106,_TOD 332
-107,_TOD 333
-108,_TOD 334
-109,_TOD 335
-110,_TOD 336
-111,_TOD 337
-112,_TOD 338
-113,_TOD 339
-114,_TOD 340
-115,_TOD 341
-116,1100 North Center
-117,3500 South
-118,Ballpark
-119,Bingham Junction
-120,Bountiful 200 West
-121,Bountiful Downtown
-122,Brigham City Forest Street
-123,Brigham City Main Street
-124,Butler Park Center
-125,Central Antelope Center
-126,Cottonwood Heights Fort Union
-127,Cottonwood Heights Highland Drive
-128,Crossroads
-129,Daybreak
-130,Downtown Clearfield
-131,Downtown Provo
-132,Downtown Riverton
-133,Downtown South Salt Lake
-134,Downtown Springville
-135,Draper City Center
-136,Eagle Mountain
-137,East Antelope Center
-138,East Park Lane
-139,Fairbourne Station
-140,Five Points
-141,Harrisville US 89
-142,Harrisville Washington Boulevard
-143,Heber Main Street
-144,Herriman Olympia Hills
-145,Herriman Porter Rockwell Center
-146,Herriman Town
-147,Highline
-148,Hillcrest
-149,Holladay Town Center
-150,Independence
-151,Jordan Bluffs
-152,Jordan Landing
-153,Jordan Valley
-154,Kearns Boulevard Center
-155,Kearns City Center
-156,Kimball Junction
-157,Layton Downtown
-158,Layton Main Street
-159,Layton Midtown
-160,Meadowbrook Station
-161,Meadows
-162,Midland Drive - 3500 West
-163,Midvale Main Street
-164,Millcreek 3300 South
-165,Millcreek City Center
-166,Morgan Main Street
-167,Mountain Green Town Center
-168,Mountain View Village
-169,Murray City Center
-170,North Ogden Downtown
-171,North Ogden Southtown
-172,North Park
-173,North Salt Lake Town Center
-174,North Temple Center
-175,North View Center
-176,Ogden 12th Street
-177,Ogden 25th Street
-178,Ogden Downtown
-179,Ogden Harrison Boulevard
-180,Old Mill
-181,Olympus Hills Center
-182,Orem-800 North
-183,Orem-Center Street
-184,Park City Main Street
-185,Parrish Lane Center
-186,Payson Main Street
-187,People's Freeway Center
-188,Pleasant View 2700 North
-189,Prison Site
-190,Riverdale City Center
-191,Rock Creek
-192,Roy 1900 West
-193,Roy Downtown
-194,Salt Lake 900 West
-195,Salt Lake City CBD
-196,Salt Lake City East Downtown
-197,Skyline Center
-198,South Jordan Redwood Road
-199,State Street Center
-200,Station Park/North Station
-201,Sugarhouse
-202,Sunset SR 126
-203,Syracuse 2000 West - North
-204,Syracuse 2000 West - South
-205,Syracuse City Center
-206,Syracuse SR 193 Center
-207,Taylorsville Expressway Center
-208,Thanksgiving Point
-209,The Cairns
-210,Timpanogos
-211,Union Park
-212,University Center
-213,Vineyard
-214,Vista Station
-215,Washington Terrace US 89
-216,West Antelope Center
-217,West Haven 4000 South
-218,West Haven City Center
-219,West Haven Midland Drive
-220,West High Center
-221,West Jordan City Center
-222,West Ogden Center
-223,West Point 2000 West
-224,West Point SR 193 Center
-225,West Roy Town Center
-226,West Valley 5600 West
-227,West Valley/Taylorsville Redwood Road Center
+0,1100 North Center
+1,1940 W NORTH TEMPLE LRT NC
+2,3500 South
+3,"4800 W. OLD BINGHAM HWY 
+ LRT NC"
+4,5600 W. OLD BINGHAM HWY LRT NC
+5,900 SOUTH LRT NC
+6,AIRPORT LRT NC
+7,AMERICAN FORK CRT NC
+8,Ballpark
+9,BALLPARK LRT NC
+10,Bingham Junction
+11,BINGHAM JUNCTION LRT NC
+12,Bountiful 200 West
+13,Bountiful Downtown
+14,Brigham City Forest Street
+15,Brigham City Main Street
+16,Butler Park Center
+17,Central Antelope Center
+18,CENTRAL POINTE LRT NC
+19,CLEARFIELD CRT NC
+20,Cottonwood Heights Fort Union
+21,Cottonwood Heights Highland Drive
+22,CRESCENT VIEW LRT NC
+23,Crossroads
+24,Daybreak
+25,DECKER LAKE LRT NC
+26,Downtown Clearfield
+27,Downtown Provo
+28,Downtown Riverton
+29,Downtown South Salt Lake
+30,Downtown Springville
+31,Draper City Center
+32,DRAPER CRT NC
+33,DRAPER TOWN CENTER LRT NC
+34,Eagle Mountain
+35,East Antelope Center
+36,East Park Lane
+37,Fairbourne Station
+38,FARMINGTON CRT NC
+39,"FASHION PLACE WEST 
+ LRT NC"
+40,Five Points
+41,Harrisville US 89
+42,Harrisville Washington Boulevard
+43,Heber Main Street
+44,Herriman Olympia Hills
+45,Herriman Porter Rockwell Center
+46,Herriman Town
+47,Highline
+48,Hillcrest
+49,"HISTORIC GARDNER 
+ LRT NC"
+50,"HISTORIC SANDY 
+ LRT NC"
+51,Holladay Town Center
+52,Independence
+53,JACKSON/EUCLID LRT NC
+54,Jordan Bluffs
+55,Jordan Landing
+56,Jordan Valley
+57,"JORDAN VALLEY 
+ LRT NC"
+58,Kearns Boulevard Center
+59,Kearns City Center
+60,Kimball Junction
+61,KIMBALLS LANE LRT NC
+62,LAYTON CRT NC
+63,Layton Downtown
+64,Layton Main Street
+65,Layton Midtown
+66,LEHI CRT NC
+67,MEADOWBROOK LRT NC
+68,Meadowbrook Station
+69,Meadows
+70,Midland Drive - 3500 West
+71,MIDVALE CENTER LRT NC
+72,MIDVALE FORT UNION LRT NC
+73,Midvale Main Street
+74,Millcreek 3300 South
+75,Millcreek City Center
+76,MILLCREEK LRT NC
+77,Morgan Main Street
+78,Mountain Green Town Center
+79,Mountain View Village
+80,Murray City Center
+81,MURRAY CRT NC
+82,"MURRAY NORTH 
+ LRT NC"
+83,North Ogden Downtown
+84,North Ogden Southtown
+85,North Park
+86,North Salt Lake Town Center
+87,NORTH TEMPLE BRIDGE/GUADALUPE CRT NC
+88,North Temple Center
+89,North View Center
+90,Ogden 12th Street
+91,Ogden 25th Street
+92,Ogden Downtown
+93,Ogden Harrison Boulevard
+94,Old Mill
+95,Olympus Hills Center
+96,Orem-800 North
+97,Orem-Center Street
+98,OREM CENTRAL CRT NC
+99,Park City Main Street
+100,Parrish Lane Center
+101,Payson Main Street
+102,People's Freeway Center
+103,Pleasant View 2700 North
+104,POWER LRT NC
+105,Prison Site
+106,PROVO CENTRAL CRT NC
+107,REDWOOD JUNCTION LRT NC
+108,RIVER TRAIL LRT NC
+109,Riverdale City Center
+110,Rock Creek
+111,Roy 1900 West
+112,ROY CRT NC
+113,Roy Downtown
+114,Salt Lake 900 West
+115,Salt Lake City CBD
+116,Salt Lake City East Downtown
+117,SANDY CIVIC CENTER LRT NC
+118,SANDY EXPO LRT NC
+119,Skyline Center
+120,SOUTH JORDAN CRT NC
+121,SOUTH JORDAN PARKWAY LRT NC
+122,South Jordan Redwood Road
+123,STADIUM LRT NC
+124,State Street Center
+125,Station Park/North Station
+126,SUGAR FACTORY RD LRT NC
+127,Sugarhouse
+128,Sunset SR 126
+129,Syracuse 2000 West - North
+130,Syracuse 2000 West - South
+131,Syracuse City Center
+132,Syracuse SR 193 Center
+133,Taylorsville Expressway Center
+134,Thanksgiving Point
+135,The Cairns
+136,Timpanogos
+137,TROLLEY LRT NC
+138,Union Park
+139,University Center
+140,UNIVERSITY SOUTH CAMPUS LRT NC
+141,Vineyard
+142,Vista Station
+143,Washington Terrace US 89
+144,West Antelope Center
+145,West Haven 4000 South
+146,West Haven City Center
+147,West Haven Midland Drive
+148,West High Center
+149,West Jordan City Center
+150,WEST JORDAN CITY CENTER LRT NC
+151,West Ogden Center
+152,West Point 2000 West
+153,West Point SR 193 Center
+154,West Roy Town Center
+155,West Valley 5600 West
+156,WEST VALLEY CENTRAL LRT NC
+157,West Valley/Taylorsville Redwood Road Center
+158,WOODS CROSS CRT NC
