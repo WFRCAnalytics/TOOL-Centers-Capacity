@@ -1,6 +1,6 @@
 # TOOL-Centers-Capacity
 
-This repository contains tools and data used to define and analyze development capacity in urban centers across the city. The goal is to estimate how much development (jobs and housing) can occur by a given **time horizon** under consistent assumptions, considering market behavior and policy constraints.
+This repository contains tools and data used to define and analyze development capacity in urban centers across the city. The goal is to estimate how much development (jobs and housing) can occur by a given **time horizon** under consistent assumptions, considering market behavior and policy constraints. A slide deck with more info and summaries is found here: https://docs.google.com/presentation/d/1Q_N2DXDx2dw9kTgBwuMGi4D2xgZAUzntRy9scjlPGyU
 
 ## Overview
 
